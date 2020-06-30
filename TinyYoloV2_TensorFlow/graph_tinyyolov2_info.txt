@@ -1,0 +1,3 @@
+Input-image:416x416
+Input-node:input/Placeholder
+Output-node:add_8
