@@ -2,4 +2,4 @@
 ## Gstreamer Pipeline von der Kamera zum DNN mit Python
 Ausarbeitung des freien Projekts in ADP bei Prof. Rüdiger Weiss
 
-![Alt text](pics/BHT-Logo.pdf?raw=true "Title")
+![Alt text](pics/?Beuth-Logo_horizontal.png?raw=true "Beuth")
